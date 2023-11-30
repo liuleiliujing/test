@@ -1,0 +1,16 @@
+{
+  "helpMessage": "\nPlease fix your commit message (and consider using https://www.npmjs.com/package/commitizen)\n",
+  "types": [
+    "功能",
+    "修复",
+    "文档",
+    "格式",
+    "重构",
+    "优化",
+    "测试",
+    "回滚",
+    "更新"
+  ],
+  "warnOnFail": false,
+  "autoFix": false
+}
